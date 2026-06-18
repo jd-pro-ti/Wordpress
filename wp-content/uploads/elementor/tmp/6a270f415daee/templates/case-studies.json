@@ -1,0 +1,2655 @@
+{
+    "version": "0.4",
+    "title": "Case Studies",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "2862affc",
+            "settings": {
+                "flex_direction": "column",
+                "min_height": {
+                    "unit": "vh",
+                    "size": 60,
+                    "sizes": []
+                },
+                "min_height_tablet": {
+                    "unit": "vh",
+                    "size": "",
+                    "sizes": []
+                },
+                "min_height_mobile": {
+                    "unit": "vh",
+                    "size": "",
+                    "sizes": []
+                },
+                "background_background": "gradient",
+                "background_color_stop": {
+                    "unit": "%",
+                    "size": 45,
+                    "sizes": []
+                },
+                "background_gradient_type": "radial",
+                "background_gradient_position": "bottom center",
+                "background_overlay_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=f7ef1ec",
+                    "background_color_b": "globals\/colors?id=0e981aa"
+                },
+                "flex_justify_content": "center",
+                "background_overlay_image": {
+                    "url": "https:\/\/tykit.widagdos.net\/averon\/wp-content\/uploads\/sites\/41\/2026\/02\/Img13.jpg",
+                    "id": 532,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.05,
+                    "sizes": []
+                },
+                "css_filters_css_filter": "custom",
+                "css_filters_saturate": {
+                    "unit": "px",
+                    "size": 0,
+                    "sizes": []
+                },
+                "_title": "Header Heading",
+                "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_slideshow_gallery": [],
+                "background_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_hover_slideshow_gallery": [],
+                "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_slideshow_gallery": [],
+                "background_overlay_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_hover_slideshow_gallery": []
+            },
+            "elements": [
+                {
+                    "id": "63fde092",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 50,
+                            "sizes": []
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "120",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_flex_align_self": "center",
+                        "_title": "Edit Here",
+                        "background_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_slideshow_gallery": [],
+                        "background_hover_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_hover_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_hover_slideshow_gallery": [],
+                        "background_overlay_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_overlay_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_overlay_slideshow_gallery": [],
+                        "background_overlay_hover_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_overlay_hover_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_overlay_hover_slideshow_gallery": []
+                    },
+                    "elements": [
+                        {
+                            "id": "3e9c5a5e",
+                            "settings": {
+                                "title": "Case Studies",
+                                "header_size": "h1",
+                                "align": "center",
+                                "_background_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "_background_video_fallback": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "_background_slideshow_gallery": [],
+                                "_background_hover_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "_background_hover_video_fallback": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "_background_hover_slideshow_gallery": [],
+                                "_mask_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "77e8114a",
+                            "settings": {
+                                "editor": "<p><a href=\"#\">Homepage<\/a> \/ Case Studies<\/p>",
+                                "align": "center",
+                                "paragraph_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "link_hover_color_transition_duration": {
+                                    "unit": "s",
+                                    "size": 0.2,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=accent",
+                                    "text_color": "globals\/colors?id=primary",
+                                    "link_color": "globals\/colors?id=accent",
+                                    "link_hover_color": "globals\/colors?id=primary"
+                                },
+                                "_background_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "_background_video_fallback": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "_background_slideshow_gallery": [],
+                                "_background_hover_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "_background_hover_video_fallback": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "_background_hover_slideshow_gallery": [],
+                                "_mask_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "4aeb88e2",
+            "settings": {
+                "flex_gap": {
+                    "column": "80",
+                    "row": "80",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 80
+                },
+                "background_gradient_type": "radial",
+                "background_gradient_position": "center left",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.3,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "150",
+                    "right": "0",
+                    "bottom": "150",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "120",
+                    "right": "40",
+                    "bottom": "120",
+                    "left": "40",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "120",
+                    "right": "20",
+                    "bottom": "120",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=222209f",
+                    "background_overlay_color_b": "globals\/colors?id=0e981aa",
+                    "background_color": "globals\/colors?id=222209f",
+                    "background_color_b": "globals\/colors?id=secondary"
+                },
+                "_title": "Case Studies",
+                "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_slideshow_gallery": [],
+                "background_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_hover_slideshow_gallery": [],
+                "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_slideshow_gallery": [],
+                "background_overlay_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_hover_slideshow_gallery": []
+            },
+            "elements": [
+                {
+                    "id": "25773281",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 50,
+                            "sizes": []
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_flex_align_self": "center",
+                        "_title": "Heading",
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "background_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_slideshow_gallery": [],
+                        "background_hover_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_hover_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_hover_slideshow_gallery": [],
+                        "background_overlay_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_overlay_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_overlay_slideshow_gallery": [],
+                        "background_overlay_hover_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_overlay_hover_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_overlay_hover_slideshow_gallery": []
+                    },
+                    "elements": [
+                        {
+                            "id": "1bb8452c",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Case studies",
+                                        "selected_icon": {
+                                            "value": "fas fa-square-full",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "0f42e99"
+                                    }
+                                ],
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 8,
+                                    "sizes": []
+                                },
+                                "icon_self_vertical_align": "flex-start",
+                                "_flex_align_self": "center",
+                                "__globals__": {
+                                    "icon_typography_typography": "globals\/typography?id=secondary",
+                                    "icon_color": "globals\/colors?id=accent",
+                                    "text_color": "globals\/colors?id=primary",
+                                    "icon_color_hover": "globals\/colors?id=accent"
+                                },
+                                "_background_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "_background_video_fallback": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "_background_slideshow_gallery": [],
+                                "_background_hover_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "_background_hover_video_fallback": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "_background_hover_slideshow_gallery": [],
+                                "_mask_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5b899e5e",
+                            "settings": {
+                                "title": "Real Results from Real Business Solutions",
+                                "align": "center",
+                                "_background_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "_background_video_fallback": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "_background_slideshow_gallery": [],
+                                "_background_hover_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "_background_hover_video_fallback": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "_background_hover_slideshow_gallery": [],
+                                "_mask_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "60ff0bd4",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_gap": {
+                            "column": "80",
+                            "row": "80",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 80
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=f7ef1ec"
+                        },
+                        "_title": "Edit Here",
+                        "overflow": "hidden",
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "background_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_slideshow_gallery": [],
+                        "background_hover_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_hover_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_hover_slideshow_gallery": [],
+                        "background_overlay_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_overlay_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_overlay_slideshow_gallery": [],
+                        "background_overlay_hover_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_overlay_hover_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "background_overlay_hover_slideshow_gallery": []
+                    },
+                    "elements": [
+                        {
+                            "id": "3cfcf666",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "column",
+                                "flex_gap": {
+                                    "column": "50",
+                                    "row": "50",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 50
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_title": "Edit case here",
+                                "background_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "background_video_fallback": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "background_slideshow_gallery": [],
+                                "background_hover_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "background_hover_video_fallback": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "background_hover_slideshow_gallery": [],
+                                "background_overlay_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "background_overlay_video_fallback": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "background_overlay_slideshow_gallery": [],
+                                "background_overlay_hover_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "background_overlay_hover_video_fallback": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "background_overlay_hover_slideshow_gallery": []
+                            },
+                            "elements": [
+                                {
+                                    "id": "ef0d1c1",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_direction": "row",
+                                        "flex_gap": {
+                                            "column": "50",
+                                            "row": "50",
+                                            "isLinked": true,
+                                            "unit": "px",
+                                            "size": 50
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_title": "1-2",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "animation_delay": 150,
+                                        "background_image": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": ""
+                                        },
+                                        "background_video_fallback": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": ""
+                                        },
+                                        "background_slideshow_gallery": [],
+                                        "background_hover_image": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": ""
+                                        },
+                                        "background_hover_video_fallback": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": ""
+                                        },
+                                        "background_hover_slideshow_gallery": [],
+                                        "background_overlay_image": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": ""
+                                        },
+                                        "background_overlay_video_fallback": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": ""
+                                        },
+                                        "background_overlay_slideshow_gallery": [],
+                                        "background_overlay_hover_image": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": ""
+                                        },
+                                        "background_overlay_hover_video_fallback": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": ""
+                                        },
+                                        "background_overlay_hover_slideshow_gallery": []
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "20f9167a",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_title": "1",
+                                                "background_image": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_video_fallback": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_slideshow_gallery": [],
+                                                "background_hover_image": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_hover_video_fallback": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_hover_slideshow_gallery": [],
+                                                "background_overlay_image": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_overlay_video_fallback": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_overlay_slideshow_gallery": [],
+                                                "background_overlay_hover_image": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_overlay_hover_video_fallback": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_overlay_hover_slideshow_gallery": []
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "2ed9564a",
+                                                    "settings": {
+                                                        "image": {
+                                                            "url": "https:\/\/tykit.widagdos.net\/averon\/wp-content\/uploads\/sites\/41\/2026\/01\/Img9.jpg",
+                                                            "id": 316,
+                                                            "size": "",
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "image_size": "full",
+                                                        "_background_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "_background_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "_background_slideshow_gallery": [],
+                                                        "_background_hover_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "_background_hover_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "_background_hover_slideshow_gallery": [],
+                                                        "_mask_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        }
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "image",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "607109",
+                                                    "settings": {
+                                                        "content_width": "full",
+                                                        "flex_direction": "row",
+                                                        "flex_align_items": "flex-start",
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "_title": "Detail Here",
+                                                        "background_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_slideshow_gallery": [],
+                                                        "background_hover_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_hover_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_hover_slideshow_gallery": [],
+                                                        "background_overlay_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_overlay_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_overlay_slideshow_gallery": [],
+                                                        "background_overlay_hover_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_overlay_hover_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_overlay_hover_slideshow_gallery": []
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "5a60b66e",
+                                                            "settings": {
+                                                                "content_width": "full",
+                                                                "flex_gap": {
+                                                                    "column": "5",
+                                                                    "row": "5",
+                                                                    "isLinked": true,
+                                                                    "unit": "px",
+                                                                    "size": 5
+                                                                },
+                                                                "padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_title": "Left",
+                                                                "background_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_slideshow_gallery": [],
+                                                                "background_hover_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_hover_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_hover_slideshow_gallery": [],
+                                                                "background_overlay_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_slideshow_gallery": [],
+                                                                "background_overlay_hover_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_hover_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_hover_slideshow_gallery": []
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "22de7582",
+                                                                    "settings": {
+                                                                        "title": "Cloud Migration for Financial Services",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "header_size": "h5",
+                                                                        "title_hover_color_transition_duration": {
+                                                                            "unit": "s",
+                                                                            "size": 0.2,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "__globals__": {
+                                                                            "title_color": "globals\/colors?id=primary",
+                                                                            "title_hover_color": "globals\/colors?id=accent"
+                                                                        },
+                                                                        "_background_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_slideshow_gallery": [],
+                                                                        "_background_hover_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_slideshow_gallery": [],
+                                                                        "_mask_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        }
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "heading",
+                                                                    "elType": "widget"
+                                                                },
+                                                                {
+                                                                    "id": "5ee9aa78",
+                                                                    "settings": {
+                                                                        "title": "Finance",
+                                                                        "header_size": "p",
+                                                                        "__globals__": {
+                                                                            "typography_typography": "globals\/typography?id=text"
+                                                                        },
+                                                                        "_background_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_slideshow_gallery": [],
+                                                                        "_background_hover_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_slideshow_gallery": [],
+                                                                        "_mask_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        }
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "heading",
+                                                                    "elType": "widget"
+                                                                }
+                                                            ],
+                                                            "isInner": true,
+                                                            "elType": "container"
+                                                        },
+                                                        {
+                                                            "id": "1d168b8b",
+                                                            "settings": {
+                                                                "content_width": "full",
+                                                                "width": {
+                                                                    "unit": "%",
+                                                                    "size": 20,
+                                                                    "sizes": []
+                                                                },
+                                                                "padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_title": "Right",
+                                                                "background_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_slideshow_gallery": [],
+                                                                "background_hover_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_hover_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_hover_slideshow_gallery": [],
+                                                                "background_overlay_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_slideshow_gallery": [],
+                                                                "background_overlay_hover_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_hover_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_hover_slideshow_gallery": []
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "608b1431",
+                                                                    "settings": {
+                                                                        "title": "2022",
+                                                                        "header_size": "p",
+                                                                        "align": "end",
+                                                                        "__globals__": {
+                                                                            "typography_typography": "globals\/typography?id=8138a2e"
+                                                                        },
+                                                                        "_background_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_slideshow_gallery": [],
+                                                                        "_background_hover_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_slideshow_gallery": [],
+                                                                        "_mask_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        }
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "heading",
+                                                                    "elType": "widget"
+                                                                }
+                                                            ],
+                                                            "isInner": true,
+                                                            "elType": "container"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "container"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        },
+                                        {
+                                            "id": "4e15af6f",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_title": "2",
+                                                "background_image": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_video_fallback": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_slideshow_gallery": [],
+                                                "background_hover_image": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_hover_video_fallback": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_hover_slideshow_gallery": [],
+                                                "background_overlay_image": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_overlay_video_fallback": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_overlay_slideshow_gallery": [],
+                                                "background_overlay_hover_image": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_overlay_hover_video_fallback": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_overlay_hover_slideshow_gallery": []
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "2bf161f6",
+                                                    "settings": {
+                                                        "image": {
+                                                            "url": "https:\/\/tykit.widagdos.net\/averon\/wp-content\/uploads\/sites\/41\/2026\/01\/Img10.jpg",
+                                                            "id": 317,
+                                                            "size": "",
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "image_size": "full",
+                                                        "_background_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "_background_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "_background_slideshow_gallery": [],
+                                                        "_background_hover_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "_background_hover_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "_background_hover_slideshow_gallery": [],
+                                                        "_mask_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        }
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "image",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "128975b7",
+                                                    "settings": {
+                                                        "content_width": "full",
+                                                        "flex_direction": "row",
+                                                        "flex_align_items": "flex-start",
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "_title": "Detail Here",
+                                                        "background_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_slideshow_gallery": [],
+                                                        "background_hover_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_hover_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_hover_slideshow_gallery": [],
+                                                        "background_overlay_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_overlay_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_overlay_slideshow_gallery": [],
+                                                        "background_overlay_hover_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_overlay_hover_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_overlay_hover_slideshow_gallery": []
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "79011af2",
+                                                            "settings": {
+                                                                "content_width": "full",
+                                                                "flex_gap": {
+                                                                    "column": "5",
+                                                                    "row": "5",
+                                                                    "isLinked": true,
+                                                                    "unit": "px",
+                                                                    "size": 5
+                                                                },
+                                                                "padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_title": "Left",
+                                                                "background_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_slideshow_gallery": [],
+                                                                "background_hover_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_hover_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_hover_slideshow_gallery": [],
+                                                                "background_overlay_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_slideshow_gallery": [],
+                                                                "background_overlay_hover_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_hover_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_hover_slideshow_gallery": []
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "661f5735",
+                                                                    "settings": {
+                                                                        "title": "Digital Transformation for Retail Business",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "header_size": "h5",
+                                                                        "title_hover_color_transition_duration": {
+                                                                            "unit": "s",
+                                                                            "size": 0.2,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "__globals__": {
+                                                                            "title_color": "globals\/colors?id=primary",
+                                                                            "title_hover_color": "globals\/colors?id=accent"
+                                                                        },
+                                                                        "_background_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_slideshow_gallery": [],
+                                                                        "_background_hover_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_slideshow_gallery": [],
+                                                                        "_mask_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        }
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "heading",
+                                                                    "elType": "widget"
+                                                                },
+                                                                {
+                                                                    "id": "a9af62d",
+                                                                    "settings": {
+                                                                        "title": "Retail & E-Commerce",
+                                                                        "header_size": "p",
+                                                                        "__globals__": {
+                                                                            "typography_typography": "globals\/typography?id=text"
+                                                                        },
+                                                                        "_background_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_slideshow_gallery": [],
+                                                                        "_background_hover_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_slideshow_gallery": [],
+                                                                        "_mask_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        }
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "heading",
+                                                                    "elType": "widget"
+                                                                }
+                                                            ],
+                                                            "isInner": true,
+                                                            "elType": "container"
+                                                        },
+                                                        {
+                                                            "id": "5e57631",
+                                                            "settings": {
+                                                                "content_width": "full",
+                                                                "width": {
+                                                                    "unit": "%",
+                                                                    "size": 20,
+                                                                    "sizes": []
+                                                                },
+                                                                "padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_title": "Right",
+                                                                "background_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_slideshow_gallery": [],
+                                                                "background_hover_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_hover_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_hover_slideshow_gallery": [],
+                                                                "background_overlay_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_slideshow_gallery": [],
+                                                                "background_overlay_hover_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_hover_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_hover_slideshow_gallery": []
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "22d915d0",
+                                                                    "settings": {
+                                                                        "title": "2023",
+                                                                        "header_size": "p",
+                                                                        "align": "end",
+                                                                        "__globals__": {
+                                                                            "typography_typography": "globals\/typography?id=8138a2e"
+                                                                        },
+                                                                        "_background_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_slideshow_gallery": [],
+                                                                        "_background_hover_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_slideshow_gallery": [],
+                                                                        "_mask_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        }
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "heading",
+                                                                    "elType": "widget"
+                                                                }
+                                                            ],
+                                                            "isInner": true,
+                                                            "elType": "container"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "container"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                },
+                                {
+                                    "id": "73012139",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_direction": "row",
+                                        "flex_gap": {
+                                            "column": "50",
+                                            "row": "50",
+                                            "isLinked": true,
+                                            "unit": "px",
+                                            "size": 50
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_title": "3-4",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "animation_delay": 300,
+                                        "background_image": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": ""
+                                        },
+                                        "background_video_fallback": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": ""
+                                        },
+                                        "background_slideshow_gallery": [],
+                                        "background_hover_image": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": ""
+                                        },
+                                        "background_hover_video_fallback": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": ""
+                                        },
+                                        "background_hover_slideshow_gallery": [],
+                                        "background_overlay_image": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": ""
+                                        },
+                                        "background_overlay_video_fallback": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": ""
+                                        },
+                                        "background_overlay_slideshow_gallery": [],
+                                        "background_overlay_hover_image": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": ""
+                                        },
+                                        "background_overlay_hover_video_fallback": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": ""
+                                        },
+                                        "background_overlay_hover_slideshow_gallery": []
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "101ee01d",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_title": "1",
+                                                "background_image": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_video_fallback": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_slideshow_gallery": [],
+                                                "background_hover_image": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_hover_video_fallback": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_hover_slideshow_gallery": [],
+                                                "background_overlay_image": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_overlay_video_fallback": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_overlay_slideshow_gallery": [],
+                                                "background_overlay_hover_image": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_overlay_hover_video_fallback": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_overlay_hover_slideshow_gallery": []
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "70e69db7",
+                                                    "settings": {
+                                                        "image": {
+                                                            "url": "https:\/\/tykit.widagdos.net\/averon\/wp-content\/uploads\/sites\/41\/2026\/01\/Img11.jpg",
+                                                            "id": 318,
+                                                            "size": "",
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "image_size": "full",
+                                                        "_background_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "_background_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "_background_slideshow_gallery": [],
+                                                        "_background_hover_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "_background_hover_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "_background_hover_slideshow_gallery": [],
+                                                        "_mask_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        }
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "image",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "730227dc",
+                                                    "settings": {
+                                                        "content_width": "full",
+                                                        "flex_direction": "row",
+                                                        "flex_align_items": "flex-start",
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "_title": "Detail Here",
+                                                        "background_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_slideshow_gallery": [],
+                                                        "background_hover_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_hover_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_hover_slideshow_gallery": [],
+                                                        "background_overlay_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_overlay_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_overlay_slideshow_gallery": [],
+                                                        "background_overlay_hover_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_overlay_hover_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_overlay_hover_slideshow_gallery": []
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "40fe10fe",
+                                                            "settings": {
+                                                                "content_width": "full",
+                                                                "flex_gap": {
+                                                                    "column": "5",
+                                                                    "row": "5",
+                                                                    "isLinked": true,
+                                                                    "unit": "px",
+                                                                    "size": 5
+                                                                },
+                                                                "padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_title": "Left",
+                                                                "background_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_slideshow_gallery": [],
+                                                                "background_hover_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_hover_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_hover_slideshow_gallery": [],
+                                                                "background_overlay_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_slideshow_gallery": [],
+                                                                "background_overlay_hover_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_hover_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_hover_slideshow_gallery": []
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "17759174",
+                                                                    "settings": {
+                                                                        "title": "System Integration for Manufacturing Company",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "header_size": "h5",
+                                                                        "title_hover_color_transition_duration": {
+                                                                            "unit": "s",
+                                                                            "size": 0.2,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "__globals__": {
+                                                                            "title_color": "globals\/colors?id=primary",
+                                                                            "title_hover_color": "globals\/colors?id=accent"
+                                                                        },
+                                                                        "_background_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_slideshow_gallery": [],
+                                                                        "_background_hover_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_slideshow_gallery": [],
+                                                                        "_mask_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        }
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "heading",
+                                                                    "elType": "widget"
+                                                                },
+                                                                {
+                                                                    "id": "77109187",
+                                                                    "settings": {
+                                                                        "title": "Manufacturing",
+                                                                        "header_size": "p",
+                                                                        "__globals__": {
+                                                                            "typography_typography": "globals\/typography?id=text"
+                                                                        },
+                                                                        "_background_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_slideshow_gallery": [],
+                                                                        "_background_hover_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_slideshow_gallery": [],
+                                                                        "_mask_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        }
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "heading",
+                                                                    "elType": "widget"
+                                                                }
+                                                            ],
+                                                            "isInner": true,
+                                                            "elType": "container"
+                                                        },
+                                                        {
+                                                            "id": "3e4f0573",
+                                                            "settings": {
+                                                                "content_width": "full",
+                                                                "width": {
+                                                                    "unit": "%",
+                                                                    "size": 20,
+                                                                    "sizes": []
+                                                                },
+                                                                "padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_title": "Right",
+                                                                "background_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_slideshow_gallery": [],
+                                                                "background_hover_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_hover_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_hover_slideshow_gallery": [],
+                                                                "background_overlay_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_slideshow_gallery": [],
+                                                                "background_overlay_hover_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_hover_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_hover_slideshow_gallery": []
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "43e0e249",
+                                                                    "settings": {
+                                                                        "title": "2024",
+                                                                        "header_size": "p",
+                                                                        "align": "end",
+                                                                        "__globals__": {
+                                                                            "typography_typography": "globals\/typography?id=8138a2e"
+                                                                        },
+                                                                        "_background_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_slideshow_gallery": [],
+                                                                        "_background_hover_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_slideshow_gallery": [],
+                                                                        "_mask_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        }
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "heading",
+                                                                    "elType": "widget"
+                                                                }
+                                                            ],
+                                                            "isInner": true,
+                                                            "elType": "container"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "container"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        },
+                                        {
+                                            "id": "2de78258",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_title": "2",
+                                                "background_image": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_video_fallback": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_slideshow_gallery": [],
+                                                "background_hover_image": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_hover_video_fallback": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_hover_slideshow_gallery": [],
+                                                "background_overlay_image": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_overlay_video_fallback": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_overlay_slideshow_gallery": [],
+                                                "background_overlay_hover_image": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_overlay_hover_video_fallback": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": ""
+                                                },
+                                                "background_overlay_hover_slideshow_gallery": []
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "790b0e96",
+                                                    "settings": {
+                                                        "image": {
+                                                            "url": "https:\/\/tykit.widagdos.net\/averon\/wp-content\/uploads\/sites\/41\/2026\/01\/Img12.jpg",
+                                                            "id": 319,
+                                                            "size": "",
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "image_size": "full",
+                                                        "_background_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "_background_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "_background_slideshow_gallery": [],
+                                                        "_background_hover_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "_background_hover_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "_background_hover_slideshow_gallery": [],
+                                                        "_mask_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        }
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "image",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "2dbefddb",
+                                                    "settings": {
+                                                        "content_width": "full",
+                                                        "flex_direction": "row",
+                                                        "flex_align_items": "flex-start",
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "_title": "Detail Here",
+                                                        "background_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_slideshow_gallery": [],
+                                                        "background_hover_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_hover_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_hover_slideshow_gallery": [],
+                                                        "background_overlay_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_overlay_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_overlay_slideshow_gallery": [],
+                                                        "background_overlay_hover_image": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_overlay_hover_video_fallback": {
+                                                            "url": "",
+                                                            "id": "",
+                                                            "size": ""
+                                                        },
+                                                        "background_overlay_hover_slideshow_gallery": []
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "4dc01176",
+                                                            "settings": {
+                                                                "content_width": "full",
+                                                                "flex_gap": {
+                                                                    "column": "5",
+                                                                    "row": "5",
+                                                                    "isLinked": true,
+                                                                    "unit": "px",
+                                                                    "size": 5
+                                                                },
+                                                                "padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_title": "Left",
+                                                                "background_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_slideshow_gallery": [],
+                                                                "background_hover_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_hover_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_hover_slideshow_gallery": [],
+                                                                "background_overlay_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_slideshow_gallery": [],
+                                                                "background_overlay_hover_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_hover_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_hover_slideshow_gallery": []
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "3f8af5c9",
+                                                                    "settings": {
+                                                                        "title": "IT Infrastructure Upgrade for Healthcare Provider",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "header_size": "h5",
+                                                                        "title_hover_color_transition_duration": {
+                                                                            "unit": "s",
+                                                                            "size": 0.2,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "__globals__": {
+                                                                            "title_color": "globals\/colors?id=primary",
+                                                                            "title_hover_color": "globals\/colors?id=accent"
+                                                                        },
+                                                                        "_background_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_slideshow_gallery": [],
+                                                                        "_background_hover_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_slideshow_gallery": [],
+                                                                        "_mask_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        }
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "heading",
+                                                                    "elType": "widget"
+                                                                },
+                                                                {
+                                                                    "id": "d2bfe8",
+                                                                    "settings": {
+                                                                        "title": "Healthcare",
+                                                                        "header_size": "p",
+                                                                        "__globals__": {
+                                                                            "typography_typography": "globals\/typography?id=text"
+                                                                        },
+                                                                        "_background_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_slideshow_gallery": [],
+                                                                        "_background_hover_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_slideshow_gallery": [],
+                                                                        "_mask_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        }
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "heading",
+                                                                    "elType": "widget"
+                                                                }
+                                                            ],
+                                                            "isInner": true,
+                                                            "elType": "container"
+                                                        },
+                                                        {
+                                                            "id": "12bdda43",
+                                                            "settings": {
+                                                                "content_width": "full",
+                                                                "width": {
+                                                                    "unit": "%",
+                                                                    "size": 20,
+                                                                    "sizes": []
+                                                                },
+                                                                "padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_title": "Right",
+                                                                "background_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_slideshow_gallery": [],
+                                                                "background_hover_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_hover_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_hover_slideshow_gallery": [],
+                                                                "background_overlay_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_slideshow_gallery": [],
+                                                                "background_overlay_hover_image": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_hover_video_fallback": {
+                                                                    "url": "",
+                                                                    "id": "",
+                                                                    "size": ""
+                                                                },
+                                                                "background_overlay_hover_slideshow_gallery": []
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "3e3b7510",
+                                                                    "settings": {
+                                                                        "title": "2025",
+                                                                        "header_size": "p",
+                                                                        "align": "end",
+                                                                        "__globals__": {
+                                                                            "typography_typography": "globals\/typography?id=8138a2e"
+                                                                        },
+                                                                        "_background_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_slideshow_gallery": [],
+                                                                        "_background_hover_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_video_fallback": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        },
+                                                                        "_background_hover_slideshow_gallery": [],
+                                                                        "_mask_image": {
+                                                                            "url": "",
+                                                                            "id": "",
+                                                                            "size": ""
+                                                                        }
+                                                                    },
+                                                                    "elements": [],
+                                                                    "isInner": false,
+                                                                    "widgetType": "heading",
+                                                                    "elType": "widget"
+                                                                }
+                                                            ],
+                                                            "isInner": true,
+                                                            "elType": "container"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "container"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "template": "elementor_header_footer",
+        "post_featured_image": {
+            "url": "https:\/\/tykit.widagdos.net\/averon\/wp-content\/uploads\/sites\/41\/2026\/02\/Case-Studies.jpg",
+            "id": false,
+            "size": ""
+        },
+        "background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+        },
+        "background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+        },
+        "background_slideshow_gallery": []
+    }
+}

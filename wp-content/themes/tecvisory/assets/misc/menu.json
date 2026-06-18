@@ -1,0 +1,106 @@
+[
+    {
+        "menu_id": "8",
+        "menu_data": [
+            {
+                "id": 113,
+                "title": "Home",
+                "url": "#",
+                "parent": "",
+                "type": "page",
+                "object_slug": "home",
+                "have_child": false
+            },
+            {
+                "id": 114,
+                "title": "Services",
+                "url": "#",
+                "parent": "",
+                "type": "page",
+                "object_slug": "services",
+                "have_child": false
+            },
+            {
+                "id": 140,
+                "title": "Projects",
+                "url": "#",
+                "parent": "",
+                "type": "custom",
+                "object_slug": null,
+                "have_child": true
+            },
+            {
+                "id": 115,
+                "title": "Projects",
+                "url": "#",
+                "parent": "2",
+                "type": "page",
+                "object_slug": "projects",
+                "have_child": false
+            },
+            {
+                "id": 116,
+                "title": "Single Project",
+                "url": "#",
+                "parent": "2",
+                "type": "page",
+                "object_slug": "single-project",
+                "have_child": false
+            },
+            {
+                "id": 117,
+                "title": "Pages",
+                "url": "#",
+                "parent": "",
+                "type": "custom",
+                "object_slug": null,
+                "have_child": true
+            },
+            {
+                "id": 118,
+                "title": "About",
+                "url": "#",
+                "parent": "5",
+                "type": "page",
+                "object_slug": "about",
+                "have_child": false
+            },
+            {
+                "id": 119,
+                "title": "Contact",
+                "url": "#",
+                "parent": "5",
+                "type": "page",
+                "object_slug": "contact",
+                "have_child": false
+            },
+            {
+                "id": 120,
+                "title": "Pricing",
+                "url": "#",
+                "parent": "5",
+                "type": "page",
+                "object_slug": "pricing",
+                "have_child": false
+            },
+            {
+                "id": 121,
+                "title": "FAQ",
+                "url": "#",
+                "parent": "5",
+                "type": "page",
+                "object_slug": "faq",
+                "have_child": false
+            },
+            {
+                "id": 122,
+                "title": "Blog",
+                "url": "#",
+                "parent": "",
+                "type": "page",
+                "object_slug": "blog",
+                "have_child": false
+            }
+        ]
+    }
+]

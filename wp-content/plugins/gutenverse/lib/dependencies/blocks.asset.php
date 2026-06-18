@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('gutenverse-dep-animejs-script', 'react', 'react-dom', 'react-jsx-runtime', 'wp-api-fetch', 'wp-block-editor', 'wp-blocks', 'wp-components', 'wp-compose', 'wp-core-data', 'wp-data', 'wp-date', 'wp-editor', 'wp-element', 'wp-hooks', 'wp-i18n', 'wp-keycodes', 'wp-server-side-render', 'wp-url'), 'version' => '2fea77f51838adedca58');

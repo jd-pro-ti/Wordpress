@@ -1,0 +1,116 @@
+{
+	"apiVersion": 3,
+	"name": "gutenverse/icon-list-item",
+	"class_callback": "\\Gutenverse\\Block\\Icon_List_Item",
+	"title": "Icon List Item",
+	"description": "Show an icon list.",
+	"parent": ["gutenverse/icon-list"],
+	"category": "gutenverse-element",
+	"allowCopyStyle": true,
+	"attributes": {
+		"anchor": {
+			"type": "string"
+		},
+		"elementId": {
+			"type": "string"
+		},
+		"url": {
+			"type": "string"
+		},
+		"dynamicUrl": {
+			"type": "object",
+			"default": {}
+		},
+		"isDynamic": {
+			"type": "boolean",
+			"default": false
+		},
+		"dynamicTextContent": {
+			"type": "array",
+			"copyStyle": true
+		},
+		"dynamicUrlContent": {
+			"type": "array",
+			"copyStyle": true
+		},
+		"hasGlobalLink": {
+			"type": "boolean",
+			"default": false
+		},
+		"dynamicDataList": {
+			"type": "array",
+			"default": []
+		},
+		"openDynamic": {
+			"type": "string"
+		},
+		"linkTarget": {
+			"type": "string"
+		},
+		"rel": {
+			"type": "string"
+		},
+		"ariaLabel": {
+			"type": "string",
+			"copyStyle": true
+		},
+		"icon": {
+			"type": "string",
+			"default": ""
+		},
+		"iconType": {
+			"type": "string",
+			"default": "icon"
+		},
+		"iconSVG": {
+			"type": "string"
+		},
+		"hideIcon": {
+			"type": "boolean",
+			"default": false,
+			"copyStyle": true
+		},
+		"text": {
+			"type": "string",
+			"default": "List item"
+		},
+		"textChilds": {
+			"type": "array",
+			"default": []
+		},
+		"margin": {
+			"type": "object",
+			"copyStyle": true
+		},
+		"padding": {
+			"type": "object",
+			"copyStyle": true
+		},
+		"zIndex": {
+			"type": "object",
+			"copyStyle": true
+		},
+		"transform": {
+			"type": "object",
+			"copyStyle": true
+		},
+		"mask": {
+			"type": "object",
+			"copyStyle": true
+		},
+		"iconLineHeight": {
+			"type": "object",
+			"copyStyle": true
+		},
+		"condition": {
+			"type": "object",
+			"default": {}
+		}
+	},
+	"supports": {
+		"className": false,
+		"anchor": true
+	},
+	"keywords": ["icon", "list", "image", "symbol", "logo", "texts"],
+	"style": ["gutenverse-frontend-icon-list-item-style"]
+}

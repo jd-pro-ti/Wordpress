@@ -1,0 +1,480 @@
+# Copyright (C) 2026 Jegstudio
+# This file is distributed under the GNU General Public License v3 or later..
+msgid ""
+msgstr ""
+"Project-Id-Version: Tecvisory 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/tecvisory-3GtTCtvhS5nZ\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-22T02:07:57+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: tecvisory\n"
+
+#. Theme Name of the theme
+#: style.css
+#: inc/class/class-init.php:1012
+msgid "Tecvisory"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://gutenverse.com/themes/tecvisory-pro/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Tecvisory is crafted for the modern digital era. With a sophisticated dark-mode design at its core, this theme delivers a visually striking presence that commands attention - the moment visitors land on your page."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Jegstudio"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "gutenverse.com"
+msgstr ""
+
+#: inc/class/class-block-patterns.php:57
+msgid "Tecvisory Core Patterns"
+msgstr ""
+
+#: inc/class/class-block-patterns.php:61
+msgid "Tecvisory Gutenverse Patterns"
+msgstr ""
+
+#: inc/class/class-block-patterns.php:62
+msgid "Tecvisory Gutenverse PRO Patterns"
+msgstr ""
+
+#: inc/class/class-init.php:1013
+msgid ""
+"Tecvisory is crafted for the modern digital era. With a sophisticated dark-mode design at its core, this theme delivers a visually striking presence that commands attention - the moment visitors land on your page.\n"
+"Every pixel is intentional. Every layout, purposeful. Whether you're a solo tech consultant, a growing startup, or an established digital agency, this theme adapts seamlessly to your brand and scales with your ambition."
+msgstr ""
+
+#: inc/class/class-init.php:1015
+msgid "Plugin Requirement"
+msgstr ""
+
+#: inc/class/class-init.php:1016
+msgid "This theme require some plugins. Please make sure all the plugin below are installed and activated."
+msgstr ""
+
+#: inc/class/class-init.php:1022
+msgid "Install Gutenverse Plugin"
+msgstr ""
+
+#: inc/class/class-init.php:1023
+msgid "Activate Gutenverse Plugin"
+msgstr ""
+
+#: inc/class/class-init.php:1024
+msgid "Gutenverse Plugin Installed"
+msgstr ""
+
+#: inc/class/class-init.php:1038
+#: inc/class/class-plugin-notice.php:76
+msgid "Gutenverse"
+msgstr ""
+
+#: inc/class/class-init.php:1039
+#: inc/class/class-plugin-notice.php:77
+msgid "GUTENVERSE – GUTENBERG BLOCKS AND WEBSITE BUILDER FOR SITE EDITOR, TEMPLATE LIBRARY, POPUP BUILDER, ADVANCED ANIMATION EFFECTS, COMPLETE FEATURE ECOSYSTEM, 45+ FREE USER-FRIENDLY BLOCKS"
+msgstr ""
+
+#: inc/class/class-init.php:1052
+#: inc/class/class-plugin-notice.php:90
+msgid "Gutenverse Companion"
+msgstr ""
+
+#: inc/class/class-init.php:1053
+#: inc/class/class-plugin-notice.php:91
+msgid "A companion plugin designed specifically to enhance and extend the functionality of Gutenverse base themes. This plugin integrates seamlessly with the base themes, providing additional features, customization options, and advanced tools to optimize the overall user experience and streamline the development process."
+msgstr ""
+
+#: inc/class/class-init.php:1065
+#: inc/class/class-plugin-notice.php:103
+msgid "Gutenverse Form"
+msgstr ""
+
+#: inc/class/class-init.php:1066
+#: inc/class/class-plugin-notice.php:104
+msgid "GUTENVERSE FORM – FORM BUILDER FOR GUTENBERG BLOCK EDITOR, MULTI-STEP FORMS, CONDITIONAL LOGIC, PAYMENT, CALCULATION, 15+ FREE USER-FRIENDLY FORM BLOCKS"
+msgstr ""
+
+#: inc/class/class-plugin-notice.php:429
+msgid "Complete setup to activate all "
+msgstr ""
+
+#: inc/class/class-plugin-notice.php:430
+msgid "Complete the setup to unlock all features. The prepare wizard will install mandatory plugins and redirect you to the wizard page, to help you maximize your Tecvisory theme."
+msgstr ""
+
+#: inc/class/class-plugin-notice.php:433
+msgid "Continue Setup"
+msgstr ""
+
+#: inc/patterns/tecvisory-about-gutenverse-hero.php:6
+msgid "Tecvisory About Gutenverse Hero"
+msgstr ""
+
+#: inc/patterns/tecvisory-about-gutenverse-team.php:6
+msgid "Tecvisory About Gutenverse Team"
+msgstr ""
+
+#: inc/patterns/tecvisory-about-gutenverse-vision-misson.php:6
+msgid "Tecvisory About Gutenverse Vision Misson"
+msgstr ""
+
+#: inc/patterns/tecvisory-archive-gutenverse-hero.php:6
+msgid "Tecvisory Archive Gutenverse Hero"
+msgstr ""
+
+#: inc/patterns/tecvisory-blog-gutenverse-hero.php:6
+msgid "Tecvisory Blog Gutenverse Hero"
+msgstr ""
+
+#: inc/patterns/tecvisory-contact-gutenverse-details.php:6
+msgid "Tecvisory Contact Gutenverse Details"
+msgstr ""
+
+#: inc/patterns/tecvisory-contact-gutenverse-hero.php:6
+msgid "Tecvisory Contact Gutenverse Hero"
+msgstr ""
+
+#: inc/patterns/tecvisory-faq-gutenverse-hero.php:6
+msgid "Tecvisory FAQ Gutenverse Hero"
+msgstr ""
+
+#: inc/patterns/tecvisory-faq-gutenverse-list.php:6
+msgid "Tecvisory FAQ Gutenverse List"
+msgstr ""
+
+#: inc/patterns/tecvisory-gutenverse-404.php:6
+msgid "Tecvisory Gutenverse 404"
+msgstr ""
+
+#: inc/patterns/tecvisory-gutenverse-benefits.php:6
+msgid "Tecvisory Gutenverse Benefits"
+msgstr ""
+
+#: inc/patterns/tecvisory-gutenverse-blog.php:6
+msgid "Tecvisory Gutenverse Blog"
+msgstr ""
+
+#: inc/patterns/tecvisory-gutenverse-faq.php:6
+msgid "Tecvisory Gutenverse FAQ"
+msgstr ""
+
+#: inc/patterns/tecvisory-gutenverse-footer.php:6
+msgid "Tecvisory Gutenverse Footer"
+msgstr ""
+
+#: inc/patterns/tecvisory-gutenverse-header.php:6
+msgid "Tecvisory Gutenverse Header"
+msgstr ""
+
+#: inc/patterns/tecvisory-gutenverse-post-block.php:6
+msgid "Tecvisory Gutenverse Post Block"
+msgstr ""
+
+#: inc/patterns/tecvisory-gutenverse-pricing.php:6
+msgid "Tecvisory Gutenverse Pricing"
+msgstr ""
+
+#: inc/patterns/tecvisory-gutenverse-process.php:6
+msgid "Tecvisory Gutenverse Process"
+msgstr ""
+
+#: inc/patterns/tecvisory-home-gutenverse-about.php:6
+msgid "Tecvisory Home Gutenverse About"
+msgstr ""
+
+#: inc/patterns/tecvisory-home-gutenverse-contact.php:6
+msgid "Tecvisory Home Gutenverse Contact"
+msgstr ""
+
+#: inc/patterns/tecvisory-home-gutenverse-features.php:6
+msgid "Tecvisory Home Gutenverse Features"
+msgstr ""
+
+#: inc/patterns/tecvisory-home-gutenverse-hero.php:6
+msgid "Tecvisory Home Gutenverse Hero"
+msgstr ""
+
+#: inc/patterns/tecvisory-home-gutenverse-projects.php:6
+msgid "Tecvisory Home Gutenverse Projects"
+msgstr ""
+
+#: inc/patterns/tecvisory-home-gutenverse-services.php:6
+msgid "Tecvisory Home Gutenverse Services"
+msgstr ""
+
+#: inc/patterns/tecvisory-home-gutenverse-testimonials.php:6
+msgid "Tecvisory Home Gutenverse Testimonials"
+msgstr ""
+
+#: inc/patterns/tecvisory-index-gutenverse-hero.php:6
+msgid "Tecvisory Index Gutenverse Hero"
+msgstr ""
+
+#: inc/patterns/tecvisory-page-gutenverse-content.php:6
+msgid "Tecvisory Page Gutenverse Content"
+msgstr ""
+
+#: inc/patterns/tecvisory-page-gutenverse-hero.php:6
+msgid "Tecvisory Page Gutenverse Hero"
+msgstr ""
+
+#: inc/patterns/tecvisory-pricing-gutenverse-hero.php:6
+msgid "Tecvisory Pricing Gutenverse Hero"
+msgstr ""
+
+#: inc/patterns/tecvisory-pricing-gutenverse-list.php:6
+msgid "Tecvisory Pricing Gutenverse List"
+msgstr ""
+
+#: inc/patterns/tecvisory-projects-gutenverse-hero.php:6
+msgid "Tecvisory Projects Gutenverse Hero"
+msgstr ""
+
+#: inc/patterns/tecvisory-projects-gutenverse-list.php:6
+msgid "Tecvisory Projects Gutenverse List"
+msgstr ""
+
+#: inc/patterns/tecvisory-search-gutenverse-hero.php:6
+msgid "Tecvisory Search Gutenverse Hero"
+msgstr ""
+
+#: inc/patterns/tecvisory-services-gutenverse-hero.php:6
+msgid "Tecvisory Services Gutenverse Hero"
+msgstr ""
+
+#: inc/patterns/tecvisory-services-gutenverse-list.php:6
+msgid "Tecvisory Services Gutenverse List"
+msgstr ""
+
+#: inc/patterns/tecvisory-services-gutenverse-testimonials.php:6
+msgid "Tecvisory Services Gutenverse Testimonials"
+msgstr ""
+
+#: inc/patterns/tecvisory-single-gutenverse-content.php:6
+msgid "Tecvisory Single Gutenverse Content"
+msgstr ""
+
+#: inc/patterns/tecvisory-single-gutenverse-hero.php:6
+msgid "Tecvisory Single Gutenverse Hero"
+msgstr ""
+
+#: inc/patterns/tecvisory-single-project-gutenverse-content.php:6
+msgid "Tecvisory Single Project Gutenverse Content"
+msgstr ""
+
+#: assets/block/essential/advance-tab/block.json
+msgctxt "block title"
+msgid "Advance Tab Item"
+msgstr ""
+
+#: assets/block/essential/advance-tab/block.json
+msgctxt "block description"
+msgid "Create content inside a tab element"
+msgstr ""
+
+#: assets/block/essential/advance-tab/block.json
+msgctxt "block keyword"
+msgid "advance-tabs"
+msgstr ""
+
+#: assets/block/essential/advance-tab/block.json
+#: assets/block/essential/advance-tabs/block.json
+msgctxt "block keyword"
+msgid "accordion"
+msgstr ""
+
+#: assets/block/essential/advance-tab/block.json
+#: assets/block/essential/advance-tabs/block.json
+msgctxt "block keyword"
+msgid "gutenverse"
+msgstr ""
+
+#: assets/block/essential/advance-tabs/block.json
+msgctxt "block title"
+msgid "Advance Tabs"
+msgstr ""
+
+#: assets/block/essential/advance-tabs/block.json
+msgctxt "block description"
+msgid "Create content inside a tab block."
+msgstr ""
+
+#: assets/block/essential/advance-tabs/block.json
+msgctxt "block keyword"
+msgid "tabs"
+msgstr ""
+
+#: assets/block/essential/mega-menu-item/block.json
+msgctxt "block title"
+msgid "Mega Menu Item"
+msgstr ""
+
+#: assets/block/essential/mega-menu-item/block.json
+#: assets/block/essential/mega-menu/block.json
+msgctxt "block description"
+msgid "Your Block description."
+msgstr ""
+
+#: assets/block/essential/mega-menu/block.json
+msgctxt "block title"
+msgid "Mega Menu"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank Canvas"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Full Width"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent Hover"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border Input"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Placeholder"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "White"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Text Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Text Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Accent"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Accent Hover"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Background Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Background Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Background Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Border"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Border Input"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Text Placeholder"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Black"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "DM Sans"
+msgstr ""

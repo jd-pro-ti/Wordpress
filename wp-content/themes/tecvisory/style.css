@@ -1,0 +1,25 @@
+/*
+Theme Name: Tecvisory
+Description: Tecvisory is crafted for the modern digital era. With a sophisticated dark-mode design at its core, this theme delivers a visually striking presence that commands attention - the moment visitors land on your page.
+Every pixel is intentional. Every layout, purposeful. Whether you're a solo tech consultant, a growing startup, or an established digital agency, this theme adapts seamlessly to your brand and scales with your ambition.
+Author: Jegstudio
+Author URI: gutenverse.com
+Theme URI: https://gutenverse.com/themes/tecvisory-pro/
+Version: 1.0.0
+Stable tag: 1.0.0
+Requires at least: 6.5
+Tested up to: 6.9
+Requires PHP: 7.0
+License: GNU General Public License v3 or later.
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: tecvisory
+Domain Path: /languages
+Tags: two-columns,full-site-editing
+Copyright: © Jegstudio. All rights reserved.
+*/
+
+\n
+
+.editor-styles-wrapper .block-editor-block-list__layout.is-root-container > .block-library-block__reusable-block-container {
+    max-width: 100%;
+}
